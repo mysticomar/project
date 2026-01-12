@@ -1,4 +1,4 @@
-# Royalites Royal Project Royal Man
+# Project rgu 8th semester final
 ```shell
 mkdirs.py (music folders keita bonaba karne)
 feature_extract.py (.mp3 keitar features extract korba karne)
