@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Trained models & data (too large for git)
+*.pkl
+*.h5
+*.hdf5
+*.joblib
+
+# Music files (too large for git)
+music/
+happy/
+sad/
+angry/
+surprise/
+disgust/
+neutral/
+songs_to_classify/
+
+# Generated outputs
+confusion_matrix.png
+*.png
+*.jpg
+*.jpeg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Logs
+*.log
